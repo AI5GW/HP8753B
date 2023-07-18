@@ -9,7 +9,7 @@ The part numbers of the EPROMs are as follows:
 * 08753-80091 Rev. 3.0
 * 08753-80092 Rev. 3.0
 
-![HP8753B EPROMs]([http://url/to/img.png](https://github.com/AI5GW/HP8753B/blob/main/IMG_20230717_195940_2.png))
+![HP8753B EPROMs](https://github.com/AI5GW/HP8753B/blob/main/IMG_20230717_195940_2.png?raw=true)
 
 Links & Contact
 ---------------------
