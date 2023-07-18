@@ -4,10 +4,10 @@ Hexdumps of the HP8753B EPROMs.
 
 The part numbers of the EPROMs are as follows:
 
-# 08753-80089 Rev. 3.0
-# 08753-80090 Rev. 3.0
-# 08753-80091 Rev. 3.0
-# 08753-80092 Rev. 3.0
+* 08753-80089 Rev. 3.0
+* 08753-80090 Rev. 3.0
+* 08753-80091 Rev. 3.0
+* 08753-80092 Rev. 3.0
 
 
 Links & Contact
